@@ -12,7 +12,7 @@ To run this project, you need to have Rust and Cargo installed. You can install 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/game-of-life.git
+    git clone https://github.com/ridolud/rd-game-of-Life.git
     cd game-of-life
     ```
 
